@@ -1,5 +1,5 @@
 # ramda-utils
 
-### getQueryParams
+### getQueryParam
 
-getQueryParams (query, param) => value
+getQueryParam (query, param) => value

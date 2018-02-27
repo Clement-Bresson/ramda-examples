@@ -1,6 +1,6 @@
 import * as R from 'ramda'
 
-export const getQueryParams = R.converge(R.compose(R.prop(1), R.find), [
+export const getQueryParam = R.converge(R.compose(R.prop(1), R.find), [
   R.compose(R.propEq('0'), R.nthArg(1)),
   R.compose(
     R.map(R.split('=')),
