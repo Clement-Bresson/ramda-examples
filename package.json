@@ -1,0 +1,27 @@
+{
+  "name": "ramda-utils",
+  "version": "1.0.0",
+  "description": "Util functions created with ramda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clement-Bresson/ramda-utils.git"
+  },
+  "keywords": [
+    "ramda",
+    "utils",
+    "examples"
+  ],
+  "author": "Clement Bresson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clement-Bresson/ramda-utils/issues"
+  },
+  "homepage": "https://github.com/Clement-Bresson/ramda-utils#readme",
+  "devDependencies": {
+    "ramda": "^0.25.0"
+  }
+}
